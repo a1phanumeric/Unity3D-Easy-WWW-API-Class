@@ -1,5 +1,5 @@
-Unity3D-C-Sharp-API-Class
-=========================
+Unity3D Easy WWW API Class
+==========================
 
 ## Overview ##
 
